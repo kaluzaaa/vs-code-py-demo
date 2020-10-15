@@ -1,0 +1,1 @@
+GET http://localhost:5000/api/v1/resources/books/all HTTP/1.1
