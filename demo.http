@@ -1,1 +1,5 @@
 GET http://localhost:5000/api/v1/resources/books/all HTTP/1.1
+
+###
+
+GET http://localhost:5000/api/v1/resources/books?id=2 HTTP/1.1
